@@ -1,0 +1,12 @@
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Debug\RemoteFileClient.exe.config
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Debug\RemoteFileClient.exe
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Debug\RemoteFileClient.pdb
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Debug\RemoteFileServer.exe
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Debug\RemoteFileServer.pdb
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Debug\RemoteFileClient.csprojResolveAssemblyReference.cache
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Debug\RemoteFileClient.clientForm.resources
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Debug\RemoteFileClient.Properties.Resources.resources
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Debug\RemoteFileClient.settingsForm.resources
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Debug\RemoteFileClient.csproj.GenerateResource.Cache
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Debug\RemoteFileClient.exe
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Debug\RemoteFileClient.pdb

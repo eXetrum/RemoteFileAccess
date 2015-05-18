@@ -1,0 +1,8 @@
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\bin\Debug\RemoteFileServer.exe.config
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\bin\Debug\RemoteFileServer.exe
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\bin\Debug\RemoteFileServer.pdb
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\obj\Debug\RemoteFileServer.serverForm.resources
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\obj\Debug\RemoteFileServer.Properties.Resources.resources
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\obj\Debug\RemoteFileServer.csproj.GenerateResource.Cache
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\obj\Debug\RemoteFileServer.exe
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\obj\Debug\RemoteFileServer.pdb

@@ -1,0 +1,15 @@
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Release\RemoteFileClient.exe.config
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Release\RemoteFileClient.exe
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Release\RemoteFileClient.pdb
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Release\RemoteFileServer.exe
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\bin\Release\RemoteFileServer.pdb
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.csprojResolveAssemblyReference.cache
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.clientForm.resources
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.Properties.Resources.resources
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.settingsForm.resources
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.csproj.GenerateResource.Cache
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.exe
+D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.pdb
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileClient\bin\Release\RemoteFileClient.exe.config
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.exe
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileClient\obj\Release\RemoteFileClient.pdb
