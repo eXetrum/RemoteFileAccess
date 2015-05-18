@@ -9,3 +9,9 @@ D:\MS Visual Studio\Projects\C#\RemoteFileAccess\RemoteFileServer\obj\Release\Re
 D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\bin\Release\RemoteFileServer.exe.config
 D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\obj\Release\RemoteFileServer.exe
 D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\obj\Release\RemoteFileServer.pdb
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\bin\Release\RemoteFileServer.exe
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\bin\Release\RemoteFileServer.pdb
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\obj\Release\RemoteFileServer.csprojResolveAssemblyReference.cache
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\obj\Release\RemoteFileServer.serverForm.resources
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\obj\Release\RemoteFileServer.Properties.Resources.resources
+D:\D\Новая папка\Projects\Alexey Boiko[linker4ik](+375297749240)\RemoteFileAccess\RemoteFileServer\obj\Release\RemoteFileServer.csproj.GenerateResource.Cache
